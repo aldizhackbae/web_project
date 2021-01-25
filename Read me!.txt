@@ -1,0 +1,21 @@
+---------------------------------------------------------------------
+CARA IMPORT DB
+---------------------------------------------------------------------
+Import database : db_uas_web.db
+Langkah-Langkah Import DB :
+Open browser copy link : http://localhost/phpmyadmin/
+Buat DB dengan nama "db_uas_web"
+Open db_uas_web -> pilih Import -> Choose File -> db_uas_web.db -> Go
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+CARA BUKA WEB
+---------------------------------------------------------------------
+copy link ke browser : http://localhost/projek_uas_web/login.php
+Login admin :
+username : admin
+password : admin
+Login user :
+username : Nama Panggilan contoh (Pandu)
+password : user
+---------------------------------------------------------------------
